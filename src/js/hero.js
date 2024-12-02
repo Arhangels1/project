@@ -17,8 +17,8 @@ heroContacts.appendChild(socialMediaList);
 
 const contactParagraph = document.createElement('p');
 const emailLink = document.createElement('a');
-emailLink.href = 'mailto:lloydjefferson@gmail.com';
-emailLink.textContent = 'lloydjefferson@gmail.com';
+emailLink.href = 'mailto:uddr145@gmail.com';
+emailLink.textContent = 'uddr145@gmail.com';
 contactParagraph.appendChild(emailLink);
 
 heroContacts.appendChild(contactParagraph);
